@@ -1,0 +1,187 @@
+{
+  'Seoul (asia-northeast3)': {
+    'startUsageAmount 0': 0.11900000000000005,
+    'startUsageAmount 10240': 0.10900000000000006,
+    'startUsageAmount 153600': 0.09700000000000004,
+  },
+  'Melbourne (australia-southeast2)': {
+    'startUsageAmount 0': 0.12000000000000005,
+    'startUsageAmount 10240': 0.08500000000000003,
+    'startUsageAmount 153600': 0.08000000000000004,
+  },
+  'Doha (me-central1)': {
+    'startUsageAmount 0': 0.11000000000000006,
+    'startUsageAmount 10240': 0.09000000000000004,
+    'startUsageAmount 153600': 0.060000000000000026,
+  },
+  'Netherlands (europe-west4)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Salt Lake City (us-west3)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Iowa (us-central1)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Zürich (europe-west6)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Turin (europe-west12)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Osaka (asia-northeast2)': {
+    'startUsageAmount 0': 0.11000000000000006,
+    'startUsageAmount 10240': 0.07500000000000004,
+    'startUsageAmount 153600': 0.07000000000000003,
+  },
+  'Sydney (australia-southeast1)': {
+    'startUsageAmount 0': 0.12000000000000005,
+    'startUsageAmount 10240': 0.08500000000000003,
+    'startUsageAmount 153600': 0.08000000000000004,
+  },
+  'Paris (europe-west9)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Oregon (us-west1)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Mumbai (asia-south1)': {
+    'startUsageAmount 0': 0.11000000000000006,
+    'startUsageAmount 10240': 0.07500000000000004,
+    'startUsageAmount 153600': 0.07000000000000003,
+  },
+  'London (europe-west2)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Los Angeles (us-west2)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Columbus (us-east5)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Northern Virginia (us-east4)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Montréal (northamerica-northeast1)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Warsaw (europe-central2)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Hong Kong (asia-east2)': {
+    'startUsageAmount 0': 0.11000000000000006,
+    'startUsageAmount 10240': 0.07500000000000004,
+    'startUsageAmount 153600': 0.07000000000000003,
+  },
+  'São Paulo (southamerica-east1)': {
+    'startUsageAmount 0': 0.12000000000000005,
+    'startUsageAmount 10240': 0.08500000000000003,
+    'startUsageAmount 153600': 0.08000000000000004,
+  },
+  'Belgium (europe-west1)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Frankfurt (europe-west3)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'South Carolina (us-east1)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Taiwan (asia-east1)': {
+    'startUsageAmount 0': 0.11000000000000006,
+    'startUsageAmount 10240': 0.07500000000000004,
+    'startUsageAmount 153600': 0.07000000000000003,
+  },
+  'Tokyo (asia-northeast1)': {
+    'startUsageAmount 0': 0.11000000000000006,
+    'startUsageAmount 10240': 0.07500000000000004,
+    'startUsageAmount 153600': 0.07000000000000003,
+  },
+  'Madrid (europe-southwest1)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Las Vegas (us-west4)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Jakarta (asia-southeast2)': {
+    'startUsageAmount 0': 0.11000000000000006,
+    'startUsageAmount 10240': 0.07500000000000004,
+    'startUsageAmount 153600': 0.07000000000000003,
+  },
+  'Finland (europe-north1)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Dallas (us-south1)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Santiago (southamerica-west1)': {
+    'startUsageAmount 0': 0.12000000000000005,
+    'startUsageAmount 10240': 0.08500000000000003,
+    'startUsageAmount 153600': 0.08000000000000004,
+  },
+  'Delhi (asia-south2)': {
+    'startUsageAmount 0': 0.11000000000000006,
+    'startUsageAmount 10240': 0.07500000000000004,
+    'startUsageAmount 153600': 0.07000000000000003,
+  },
+  'Singapore (asia-southeast1)': {
+    'startUsageAmount 0': 0.11000000000000006,
+    'startUsageAmount 10240': 0.07500000000000004,
+    'startUsageAmount 153600': 0.07000000000000003,
+  },
+  'Tel Aviv (me-west1)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Toronto (northamerica-northeast2)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+  'Milan (europe-west8)': {
+    'startUsageAmount 0': 0.08500000000000003,
+    'startUsageAmount 10240': 0.06500000000000003,
+    'startUsageAmount 153600': 0.04500000000000002,
+  },
+}
